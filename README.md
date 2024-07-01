@@ -36,6 +36,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/yorikow/yorikow/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/yorikow/yorikow/output/snake.svg" alt="Snake animation" />
 
 ###
