@@ -2,6 +2,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
 </div>
 
@@ -20,7 +22,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
   <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg](https://cdn.icon-icons.com/icons2/2699/PNG/512/rust_lang_logo_icon_169776.png)" height="30" alt="rust logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="30" alt="rust logo"  />
 </div>
 
 ###
@@ -34,6 +36,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Yorikow/Yorikow/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/yorikow/yorikow/output/snake.svg" alt="Snake animation" />
 
 ###
